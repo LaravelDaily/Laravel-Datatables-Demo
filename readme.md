@@ -2,7 +2,7 @@
 
 Simple mini-project with Laravel 5.5, showing capabilities of [Datatables.net](https://datatables.net) library - with default and Server-Side rendering.
 
-![Laravel AJAX Datatables](http://webcoderpro.com/datatables-demo.png)
+![Laravel AJAX Datatables](https://laraveldaily.com/wp-content/uploads/2018/11/datatables-demo.png)
 
 ---
 
@@ -29,3 +29,4 @@ Please use and re-use however you want.
 - Follow our [Twitter](https://twitter.com/dailylaravel) and [Blog](http://laraveldaily.com/blog)
 - Subscribe to our [newsletter with 20+ Laravel links every Thursday](http://laraveldaily.com/weekly-laravel-newsletter/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
